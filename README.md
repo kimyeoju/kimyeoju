@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:edc6b1&height=300&section=header&text=Welcome%20to%20Yeoju's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#edc6b1&height=300&section=header&text=Welcome%20to%20Yeoju's%20Github&fontSize=50)
 
 
 <!--
