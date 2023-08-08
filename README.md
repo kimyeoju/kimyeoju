@@ -6,7 +6,7 @@
 ![kimyeoju's github stats](https://github-readme-stats.vercel.app/api?username=kimyeoju&show_icons=true&count_private=true&theme=merko)
 
 
---
+---
 
 ### 🛠 ️Tech Stack 🛠 
 
@@ -14,6 +14,6 @@
 
    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
---
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact)](https://github.com/kimyeoju/github-readme-stats)
