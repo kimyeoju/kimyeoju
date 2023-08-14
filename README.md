@@ -1,5 +1,9 @@
-<div>Hello I'm YeoJu🌈</div>
 
+<div align=center>	
+  
+# Hello, I'm YeoJu!🌈
+  
+</div>
 
 <div align=center>	
   
