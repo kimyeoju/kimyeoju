@@ -2,8 +2,8 @@
 <div align=center>	
   
 # Hello, I'm YeoJu!🌈
-반갑습니다!
-현재 Python과 Django를 주력으로 공부하고 있습니다!
+반갑습니다!/n
+현재 Python과 Django를 주력으로 공부하고 있습니다!/n
 끊임없이 성장하는 백엔드 개발자가 되기 위해 노력중입니다 🏃🏻‍♀️💨
   
 </div>
