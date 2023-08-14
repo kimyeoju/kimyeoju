@@ -11,7 +11,7 @@
   
 </div>
 
-<div aligin="center">
+<div aligin=center>
 
 ## 🛠 ️Tech Stack 🛠 
 
