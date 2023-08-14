@@ -11,7 +11,8 @@
   
 </div>
 
-<div aligin=center>
+<div align=center>	
+  
 
 ## 🛠 ️Tech Stack 🛠 
 
@@ -29,6 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact)](https://github.com/kimyeoju/github-readme-stats)
 
-</div>
 
+</div>
 
