@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact)](https://github.com/kimyeoju/github-readme-stats)
 
-![kimyeoju's github stats](https://github-readme-stats.vercel.app/api?username=kimyeoju&show_icons=true&count_private=true&theme=merko)
+![kimyeoju's github stats](github-readme-stats-laud0pvl4-kimyeoju.vercel.app)
 
 
 </div>
