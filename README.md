@@ -1,7 +1,7 @@
 
 <div align=center>	
   
-<p style 'color:#7C93C3;'>Hello, I'm YeoJu!🌈</style></p>
+<p style 'color:#7C93C3;'>Hello, I'm YeoJu!🌈</p>
 <div>
 <p>반갑습니다!</p>
 <p>현재 Python과 Django를 주력으로 공부하고 있습니다!</p>
