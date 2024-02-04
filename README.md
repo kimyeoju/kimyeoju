@@ -21,6 +21,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact&bg_color=180,000000,&title_color=93759f&text_color=93759f"
            /> </div> 
 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=150&section=footer&text=&fontSize=" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=&fontSize=" />
     </div>
     
