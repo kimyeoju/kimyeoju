@@ -2,12 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=150&text=Hello%20I'm%20YeoJu%20👋🏻&animation=&fontColor=454545&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 백엔드 개발자 김여주입니다. </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 꾸준히 성장하는 김여주입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 개발자 김여주입니다. </h2>
     </div>
     <br>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tech Stacks </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 My Tech Stacks </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
