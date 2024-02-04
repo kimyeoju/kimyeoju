@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=150&text=Hello%20I'm%20YeoJu%20👋🏻&animation=&fontColor=454545&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 개발자 김여주입니다.</h2>
+    <h2 style="color: #282d33;"> 지속적으로 성장하는 백엔드 개발자 김여주입니다.</h2>
     </div>
     <br>
     <div align= "center">
@@ -22,17 +22,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact&bg_color=180,000000,&title_color=93759f&text_color=93759f"
            /> </div> 
     </div>
-    
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <br>
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-
-
-</details>
