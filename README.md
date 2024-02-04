@@ -2,7 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=150&text=Hello%20I'm%20YeoJu%20👋🏻&animation=&fontColor=454545&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 백엔드 개발자 김여주입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 백엔드 개발자 김여주입니다. </h2>
+        <br>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 꾸준히 성장하는 김여주입니다. </div> 
     </div>
     <div align= "center">
@@ -20,7 +21,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kimyeoju&bg_color=180,000000,&title_color=93759f&text_color=93759f"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeoju&layout=compact&bg_color=180,000000,&title_color=93759f&text_color=93759f"
            /> </div> 
-
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=&fontSize=" />
     </div>
     
