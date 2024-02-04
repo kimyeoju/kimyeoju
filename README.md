@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=150&text=Hello%20I'm%20YeoJu%20👋🏻&animation=&fontColor=454545&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=cdbfdf&height=160&text=Hello%20I'm%20YeoJu%20👋🏻&animation=&fontColor=454545&fontSize=40" />
     </div>
     <div align= "center"> 
     <h3> 지속적으로 성장하는 백엔드 개발자 김여주입니다 🏃🏻‍♀️💨 </h3>
