@@ -23,6 +23,4 @@
            /> </div>
     <div aligin= "center"
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Record </h2> <div aligin="center"> <img src="https://velog-readme-stats.vercel.app/api?name=kimyeoju")](https://velog.io/@kimyeoju)
-
-        </div>
     </div>
