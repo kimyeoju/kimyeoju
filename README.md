@@ -23,6 +23,6 @@
            /> </div>
     <br>
     <div aligin= "center">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Record </h2> 
-        <div aligin="center"> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimyeoju)](https://velog.io/@kimyeoju)
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Record </h2>
+        [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seulki971227)](https://velog.io/@seulki971227)
     </div>
