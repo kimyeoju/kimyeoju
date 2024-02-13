@@ -7,7 +7,7 @@
     <br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-    <h3 aligin="center"> ✨ Main(Back-End) </h3>
+    <h4 aligin="center"> ✨ Main(Back-End) </h4>
     <br>
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
