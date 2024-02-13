@@ -20,8 +20,6 @@
           <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
           </div>
     </div>
-    
-    <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Contact me</h2> <br> 
     <div align= "center"> <a href=https://velog.io/@kimyeoju/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kimyeoju/posts"> </a>
